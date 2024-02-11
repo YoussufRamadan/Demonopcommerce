@@ -1,0 +1,6 @@
+runner\Runner.class
+steDefs\D01_registerStepDef.class
+steDefs\D02_loginStepDef.class
+steDefs\D04_CurrenciesStepDef.class
+steDefs\TestBase.class
+steDefs\D03_CannotLoginStepDef.class

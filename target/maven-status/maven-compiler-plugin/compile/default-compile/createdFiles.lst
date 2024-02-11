@@ -1,0 +1,5 @@
+pages\PageBase.class
+pages\P02_registerresult.class
+pages\P00_homePage.class
+pages\P01_register.class
+pages\P03_loginPage.class
